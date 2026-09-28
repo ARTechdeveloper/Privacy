@@ -1,0 +1,16 @@
+<section class="data-privacy-section">
+  <h2>Data Storage &amp; Deletion</h2>
+
+  <h3>No Account Requirement</h3>
+  <p>Our App does not require user registration or login. Therefore, we do not collect, link, or store personal identifiers such as your email address, name, or phone number on our servers.</p>
+
+  <h3>How to Delete Your Data:</h3>
+  <ul>
+    <li>
+      <strong>Local Data (Images &amp; Icons):</strong> All images, custom icons, and preferences are processed and saved locally on your device. You can completely delete this data at any time by clearing the App's data/cache in your device settings or by uninstalling the App.
+    </li>
+    <li>
+      <strong>Anonymous Technical &amp; Ad Data:</strong> For technical data (like crash logs) and Advertising IDs collected by third-party services (Google AdMob, Firebase), there is no personal account linked to this data, making it impossible for us to manually identify and delete a specific user's logs. However, you can reset your Advertising ID or opt-out of personalized ads directly from your Android device settings (Settings &gt; Google &gt; Ads &gt; Reset advertising ID).
+    </li>
+  </ul>
+</section>
